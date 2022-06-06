@@ -13,4 +13,5 @@ Mida del joc de dades: 1309 files, 14 columnes
 
 ## Fitxers del projecte
 * pra2_tipologiadades.ipynb: codi del projecte
-* pra2_tipologiadades.html: projecte en PDF
+* pra2_tipologiadades.html: projecte en format HTML
+* titanic.csv: origen de dades
