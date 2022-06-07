@@ -15,3 +15,4 @@ Catalin Dediu i David Closa
 * pra2_tipologiadades.ipynb: codi del projecte
 * pra2_tipologiadades.html: projecte en format HTML
 * titanic.csv: origen de dades
+* output_titanic.csv: conjunt de dades després del processament
